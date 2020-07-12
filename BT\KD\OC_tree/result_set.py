@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 # 该文件定义了在树中查找数据所需要的数据结构，类似一个中间件
 
 import copy
