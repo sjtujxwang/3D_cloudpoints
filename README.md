@@ -5,4 +5,6 @@
 
 2、BT/OC tree K/RNN
 
+3、Kmeans、GMM、EM
+
 
