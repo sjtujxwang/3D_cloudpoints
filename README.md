@@ -7,5 +7,7 @@
 
 3、Kmeans、GMM、EM
 
+4、Model fit
+
 
 
